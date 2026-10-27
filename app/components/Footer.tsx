@@ -240,7 +240,7 @@ export default function Footer() {
                   </small>
 
                   <span className="mt-1 block text-sm text-white/60 transition-colors group-hover:text-white">
-                    +91 00000 00000
+                    +91 9290934388
                   </span>
 
                 </span>
@@ -266,7 +266,7 @@ export default function Footer() {
                   </small>
 
                   <span className="mt-1 block text-sm leading-6 text-white/60">
-                    India
+                    Madhapur,Hyderabad,Telagana.
                   </span>
 
                 </span>
