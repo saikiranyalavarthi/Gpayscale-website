@@ -126,7 +126,7 @@ export default function ContactPage() {
                       </p>
 
                       <p className="mt-2 text-sm leading-7 text-white/75">
-                        Plot No. 24, HITEC City,
+                      Madhapur,
                         Hyderabad, Telangana 500081, India
                       </p>
                     </div>
