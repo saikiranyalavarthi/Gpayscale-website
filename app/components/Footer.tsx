@@ -266,7 +266,7 @@ export default function Footer() {
                   </small>
 
                   <span className="mt-1 block text-sm leading-6 text-white/60">
-                  Madhapur,Hyderabad,Telagana.
+                    Madhapur,Hyderabad,Telagana.
                   </span>
 
                 </span>
